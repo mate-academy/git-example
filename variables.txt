@@ -12,3 +12,4 @@ int price = 20;
 In this Java example, the variable `a` is declared and initialized.
 The keyword `int` specifies that `a` is of type integer, meaning it can store whole numbers.
 The variable `a` is then assigned the value `20`.
+
