@@ -3,3 +3,8 @@ Variables
 In Java, a variable is a container that holds data values during the execution of a program.
 It has a specific data type, which determines the kind of values it can store, such as integers, floating-point numbers, or characters.
 Variables must be declared with a type before they can be used, and they can be assigned and reassigned values throughout the program's lifecycle.
+
+Here is an example:
+```java
+int price = 20;
+```
